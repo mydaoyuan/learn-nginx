@@ -29,6 +29,6 @@ server {
 }
 ```
 
-但多 `autoindex` 相关可官方文档: [http://nginx.org/en/docs/http/ngx_http_autoindex_module.html](http://nginx.org/en/docs/http/ngx_http_autoindex_module.html)
+更多 `autoindex` 相关可官方文档: [http://nginx.org/en/docs/http/ngx_http_autoindex_module.html](http://nginx.org/en/docs/http/ngx_http_autoindex_module.html)
 
 注意，**线上运行环境最好别开启该配置**，因为这将直接暴露你的文件~
